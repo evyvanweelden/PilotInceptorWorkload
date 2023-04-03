@@ -1,4 +1,4 @@
-# PilotInceptorWorkload
+# Pilot Inceptor Workload
 Calculation of Duty Cycle, Aggressiveness and One-Dimensional Pilot Inceptor Workload.
 By Evy van Weelden* and Carl van Beek.
 Tilburg University, Department of Cognitive Science & Artificial Intelligence
