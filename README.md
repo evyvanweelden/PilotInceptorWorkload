@@ -7,4 +7,5 @@ Calculation of Duty Cycle, Aggressiveness and One-Dimensional Pilot Inceptor Wor
 I. Niewind, “Pilot Gain and the Workload Buildup Flight Test Technique: A Closer Investigation of Pilot Inceptor Workload”, DLR-Interner Bericht, Report No. IB 111-2012/74, Oct. 2012, URL: https://elib.dlr.de/88208/.</br>
 <br>Use .mat file to create a table with values for Duty Cycle and Aggressiveness.</br>
 <br>Use .R file to calculate One-Dimensional Pilot Inceptor Workload.</br>
+
 ![Logo-Tilburg-University-1](https://github.com/evyvanweelden/PilotInceptorWorkload/assets/89483153/5cc2267a-b5ed-4e30-b4eb-3c669a614cad)
